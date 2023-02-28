@@ -20,7 +20,7 @@ export const data = [
         img:"./img/Nilou.png",
         element:"Element: Hydro",
         weapon:"Weapon Type: Sword",
-        region:"Sumeru",
+        region:"Region: Sumeru",
         rarity:"Rarity: 5"
     },
     {
