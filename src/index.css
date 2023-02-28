@@ -14,7 +14,7 @@ body{
 .chara-card{
     max-width: 280px;
     min-width: 230px;
-    height: 545px;
+    height: 515px;
 }
 .chara-card:hover{
     box-shadow: 3px 3px 20px 5px rgba(0, 0, 0, 0.5);
